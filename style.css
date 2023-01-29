@@ -1,0 +1,12 @@
+#bootstrap_body{
+    background-color: rgb(0, 86, 130);
+    font-size: 20px;
+    font-family: 'Nabla', cursive;
+    word-spacing: 20px;
+}
+
+h1{
+    font-size: 50px;
+    background-color: olive;
+    padding: 10px;
+}
