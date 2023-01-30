@@ -10,3 +10,8 @@ h1{
     background-color: olive;
     padding: 10px;
 }
+
+img{
+    height: 50px;
+    width: 50px;
+}
